@@ -1,0 +1,22 @@
+name: asdrome_pos_natura
+description: Manejo de inventario. By asdrome
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.4 <4.0.0'
+
+dependencies:
+  adaptive_components: ^0.0.9
+  english_words: ^4.0.0
+  flutter:
+    sdk: flutter
+  provider: ^6.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
